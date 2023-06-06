@@ -1,6 +1,6 @@
 # **OopFinalProject**
-#### Name &emsp; : FELISE AMORE PANDIORA
-#### Class &emsp; &nbsp; : L2BC
-#### NIM &emsp; &emsp; : 2602174453
-#### Project &emsp; : GYM MANAGEMENT SYSTEM
-#### Demo Link   : 
+#### Name &nbsp;&nbsp;&nbsp;&nbsp; : FELISE AMORE PANDIORA
+#### Class      : L2BC
+#### NIM        : 2602174453
+#### Project    : GYM MANAGEMENT SYSTEM
+#### Demo Link  : 
