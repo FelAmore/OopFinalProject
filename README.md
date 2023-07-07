@@ -3,4 +3,4 @@
 #### Class &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;L2BC
 #### NIM &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;2602174453
 #### Project &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;GYM MANAGEMENT SYSTEM
-#### Demo Link &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;
+#### Demo Link &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;https://youtu.be/FU0_xz3CIWw
